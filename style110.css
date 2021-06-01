@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: papayawhip;
+    font-family: 'Mate SC', serif;
+}
+#test {
+    border-radius: 5px;
+    height: 500px;
+    width: 200px;
+}
+#h {
+    background-color: plum;
+}
+#result {
+    background-color: grey;
+    width: 300px;
+    margin-left: 530px;
+    font-size: large;
+}
+#test2 {
+    border-radius: 5px;
+    height: 500px;
+    width: 200px;
+}
+#test3 {
+    border-radius: 5px;
+    height: 500px;
+    width: 200px;
+}
+#test4 {
+    border-radius: 5px;
+    height: 500px;
+}
